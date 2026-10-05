@@ -1,0 +1,6 @@
+node_modules/
+# Your CV, contact details, applications and API keys. Never commit.
+data/
+data.bak*/
+tui/target/
+.DS_Store
